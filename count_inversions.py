@@ -53,4 +53,3 @@ def sort_and_count(a):
 
 	a[:] = s
 	return inv_count + x + y
-
